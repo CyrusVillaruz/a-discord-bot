@@ -1,0 +1,29 @@
+{
+  "name": "a-discord-bot",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrusVillaruz/a-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "turtino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyrusVillaruz/a-discord-bot/issues"
+  },
+  "homepage": "https://github.com/CyrusVillaruz/a-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
